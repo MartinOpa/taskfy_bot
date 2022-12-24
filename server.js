@@ -58,7 +58,7 @@ client.on("messageCreate", async msg => {
           });
         }
         else {
-          msg.reply("Shit. You forgot to mention your desired taskman, or maybe you misspelled your taskman, try !task taskmen for a list of the chads we have")
+          msg.reply("You forgot to mention your desired taskman, or maybe you misspelled your taskman, try !task taskmen for a list of the chads we have")
         }
     }
 
