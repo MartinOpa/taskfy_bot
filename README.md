@@ -5,4 +5,3 @@ reaguje na klíčová slova nebo příkazy sloužící k ukládání či načít
 
 ## Screenshoty z Discordu
 ![alt text](https://github.com/MartinOpa/taskfy_bot/blob/main/ukazka2.png?raw=true)
-![alt text](https://github.com/MartinOpa/taskfy_bot/blob/main/ukazka1.png?raw=true)
